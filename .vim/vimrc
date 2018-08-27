@@ -1,0 +1,26 @@
+" TEXT HIGHLIGHT
+syntax enable
+colorscheme monokai
+
+" SPACES AND TABS
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
+set expandtab
+
+" INDENTATION
+set foldmethod=indent
+set foldlevel=99
+
+" UI CONFIG 
+set number 
+set wildmenu
+set foldenable
+
+" BINDING
+inoremap CRTL-C <esc>
+
+inoremap <F9> <C-O>za
+nnoremap <F9> za
+onoremap <F9> <C-C>za
+vnoremap <F9> zf
