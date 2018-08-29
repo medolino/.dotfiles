@@ -1,4 +1,4 @@
-# Dotfiles for my systems
+# Dotfiles for my system
 *(inspired by: https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo)*
 
 ## Requirements
