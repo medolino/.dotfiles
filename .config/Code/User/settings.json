@@ -1,20 +1,10 @@
 {
     "telemetry.enableTelemetry": false,
     "workbench.colorTheme": "Monokai",
-    "workbench.colorCustomizations": {
-        "sideBar.background": "#e6e6e6",
-        "sideBar.foreground": "#3d3b39",
-        "sideBarSectionHeader.background": "#8a8a8a",
-        "sideBarSectionHeader.foreground": "#3d3b39",
-        "list.inactiveSelectionBackground":"#b3b3b3",
-        "list.inactiveSelectionForeground":"#ffffff",
-        "list.hoverBackground":"#b3b3b3",
-        "list.focusBackground":"#8a8a8a",
-        "list.focusForeground":"#ffffff",
-        "input.background": "#8a8a8a",
-        "input.foreground": "#ffffff",
-        "input.placeholderForeground": "#5c5855"
-           
-    },
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "window.menuBarVisibility": "default",
+    "editor.tabSize": 2,
+    "editor.fontSize": 15,
+    "editor.formatOnSave": true,
+    "prettier.requireConfig": true
 }
